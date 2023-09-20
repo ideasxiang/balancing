@@ -1,0 +1,6 @@
+../Core/BSP/Src/bsp_crc.c:20:15:get_CRC8_Check_Sum	2
+../Core/BSP/Src/bsp_crc.c:35:14:verify_CRC8_Check_Sum	3
+../Core/BSP/Src/bsp_crc.c:48:6:append_CRC8_Check_Sum	3
+../Core/BSP/Src/bsp_crc.c:99:10:get_CRC16_Check_Sum	3
+../Core/BSP/Src/bsp_crc.c:120:10:verify_CRC16_Check_Sum	5
+../Core/BSP/Src/bsp_crc.c:136:6:append_CRC16_Check_Sum	3

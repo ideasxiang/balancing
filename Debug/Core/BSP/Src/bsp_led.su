@@ -1,0 +1,11 @@
+../Core/BSP/Src/bsp_led.c:10:6:GPIO_ToggleBits	16	static
+../Core/BSP/Src/bsp_led.c:21:6:led_green_off	8	static
+../Core/BSP/Src/bsp_led.c:25:6:led_green_on	8	static
+../Core/BSP/Src/bsp_led.c:30:6:led_green_toggle	8	static
+../Core/BSP/Src/bsp_led.c:34:6:led_red_off	8	static
+../Core/BSP/Src/bsp_led.c:38:6:led_red_on	8	static
+../Core/BSP/Src/bsp_led.c:42:6:led_red_toggle	8	static
+../Core/BSP/Src/bsp_led.c:46:6:led_off	8	static
+../Core/BSP/Src/bsp_led.c:54:6:led_on	8	static
+../Core/BSP/Src/bsp_led.c:58:6:led_toggle	8	static
+../Core/BSP/Src/bsp_led.c:63:6:status_led	16	static

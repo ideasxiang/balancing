@@ -1,0 +1,2 @@
+../Core/BSP/Src/bsp_usart.c:14:19:usart_send_data	1
+../Core/BSP/Src/bsp_usart.c:22:19:xavier_usart_start	5

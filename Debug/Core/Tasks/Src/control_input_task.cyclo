@@ -1,0 +1,10 @@
+../Core/Tasks/Src/control_input_task.c:51:6:aimbot_hlf_ISR	4
+../Core/Tasks/Src/control_input_task.c:67:6:aimbot_ISR	4
+../Core/Tasks/Src/control_input_task.c:85:6:process_aimbot_data	7
+../Core/Tasks/Src/control_input_task.c:125:6:dbus_remote_ISR	5
+../Core/Tasks/Src/control_input_task.c:158:6:control_input_task	3
+../Core/Tasks/Src/control_input_task.c:195:6:control_reset	1
+../Core/Tasks/Src/control_input_task.c:206:6:control_mode_change	9
+../Core/Tasks/Src/control_input_task.c:242:6:chassis_control_input	5
+../Core/Tasks/Src/control_input_task.c:263:6:keyboard_mvt_ctrl	5
+../Core/Tasks/Src/control_input_task.c:280:6:dbus_reset	1

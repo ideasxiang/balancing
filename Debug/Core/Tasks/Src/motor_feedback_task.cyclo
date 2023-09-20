@@ -1,0 +1,2 @@
+../Core/Tasks/Src/motor_feedback_task.c:31:6:motor_feedback_task	2
+../Core/Tasks/Src/motor_feedback_task.c:56:6:chassis_feedback_loop	4

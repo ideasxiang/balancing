@@ -1,0 +1,2 @@
+../Core/Tasks/Src/motor_config.c:15:6:config_motors	16	static
+../Core/Tasks/Src/motor_config.c:255:6:motor_calib_task	16	static
